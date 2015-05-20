@@ -16,6 +16,7 @@ actions
   
     Redirect user from original port(80) to destination port(1080) using iptables.
     The 80 port is the original website (heavyweight) and 1080 port is another website showing warning message (static page).
+    **Not suitable for HTTP keep-alive configuration!**
 
 Author
 ------

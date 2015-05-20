@@ -19,8 +19,8 @@ actions
 
 Author
 ------
-  SHIE, Li-Yi <lyshie@mail.nsysu.edu.tw>
+    SHIE, Li-Yi <lyshie@mail.nsysu.edu.tw>
   
 LICENSE
 -------
-  GNU General Public License (GPL)
+    GNU General Public License (GPL)
